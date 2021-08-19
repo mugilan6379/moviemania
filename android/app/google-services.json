@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412908077278",
+    "project_id": "moviemania-fbb0e",
+    "storage_bucket": "moviemania-fbb0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412908077278:android:51b075189723034832024f",
+        "android_client_info": {
+          "package_name": "com.mugilant.moviemania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412908077278-qj49pvnf6ptcfvtobpbagtueankil5ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfMU0nsS_iMlwz6Nj3_LZCgW39NpRm8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412908077278-qj49pvnf6ptcfvtobpbagtueankil5ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
